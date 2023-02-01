@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Aziz",
+        "code": 15,
+        "hobby": "Football"
+    },
+    {
+        "name": "Amr",
+        "code": 16,
+        "hobby": "Volleyball"
+    },
+    {
+        "name": "Shehab",
+        "code": 17,
+        "hobby": "Acting"
+    }
+]
